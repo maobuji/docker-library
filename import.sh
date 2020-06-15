@@ -4,6 +4,7 @@ images=(
 k8s.gcr.io/pause:3.1=registry.cn-shenzhen.aliyuncs.com/maobuji/pause:3.1
 k8s.gcr.io/metrics-server-amd64:v0.2.1=registry.cn-shenzhen.aliyuncs.com/maobuji/metrics-server-amd64:v0.2.1
 docker.io/kubernetesui/dashboard:v2.0.0=registry.cn-shenzhen.aliyuncs.com/maobuji/kubernetesui-dashboard:v2.0.0
+docker.io/kubernetesui/metrics-scraper:v1.0.4=registry.cn-shenzhen.aliyuncs.com/maobuji/kubernetesui-metrics-scraper:v1.0.4
 )
 
 OIFS=$IFS; # 保存旧值
